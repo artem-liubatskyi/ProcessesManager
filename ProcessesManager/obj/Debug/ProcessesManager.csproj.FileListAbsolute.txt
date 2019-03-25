@@ -1,0 +1,97 @@
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+c:\users\artem\documents\visual studio 2015\Projects\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
+G:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+G:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+G:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.cache
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.CoreCompileInputs.cache
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
+G:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojAssemblyReference.cache
+H:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
+H:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+H:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+H:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+F:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
+F:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+F:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+F:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+C:\Users\ARTEM\Desktop\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\bin\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\bin\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+C:\Users\ARTEM\Desktop\ProcessesManager1\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\bin\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\bin\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.Form1.resources
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+C:\Users\ARTEM\Desktop\ProcessesManager1 — копия\ProcessesManager\obj\Debug\ProcessesManager.ChangePriority.resources
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.exe
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.pdb
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.csprojResolveAssemblyReference.cache
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.ChangePriority.resources
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.Cache
+C:\Users\ARTEM\Desktop\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.MainForm.resources
+H:\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+H:\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.exe
+H:\ProcessesManagerFinal\ProcessesManager\bin\Debug\ProcessesManager.pdb
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.csprojAssemblyReference.cache
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.ChangePriority.resources
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.MainForm.resources
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.cache
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.csproj.CoreCompileInputs.cache
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.exe
+H:\ProcessesManagerFinal\ProcessesManager\obj\Debug\ProcessesManager.pdb
+D:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe.config
+D:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.exe
+D:\ProcessesManager\ProcessesManager\bin\Debug\ProcessesManager.pdb
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csprojAssemblyReference.cache
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.ChangePriority.resources
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.MainForm.resources
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.Properties.Resources.resources
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.GenerateResource.cache
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.csproj.CoreCompileInputs.cache
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.exe
+D:\ProcessesManager\ProcessesManager\obj\Debug\ProcessesManager.pdb
